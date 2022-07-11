@@ -1,5 +1,5 @@
-# Data-Science
-Exploratory Data Analysis
+# Data-Science <br>
+Exploratory Data Analysis<br>
     1.1 Cleaning the data
     1.2 Visualising the data
 
