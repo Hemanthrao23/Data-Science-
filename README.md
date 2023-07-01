@@ -19,7 +19,7 @@
 
 <b>Deployment and Productionization:</b> Integrating data science models and solutions into real-world applications or systems, often involving considerations like scalability, efficiency, and maintenance.
 
-Data science encompasses a wide range of techniques and tools, including programming languages like Python or R, libraries and frameworks like TensorFlow or scikit-learn, data manipulation tools like SQL or Pandas, and visualization tools like Tableau or Matplotlib.
+Data science encompasses a wide range of techniques and tools, including programming languages like<b> Python</b> or <b>R</b>, libraries and frameworks like <b>TensorFlow</b> or <b>scikit-learn</b>, data manipulation tools like <b>SQL</b> or <b>Pandas</b>, and visualization tools like <b>Tableau</b> or <b>Matplotlib</b>.
 
 Overall, data science plays a crucial role in leveraging the vast amount of data available today to drive informed decision-making, improve processes, develop new products or services, and solve complex problems across industries.
 
