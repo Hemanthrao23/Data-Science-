@@ -1,5 +1,5 @@
 # Data-Science <br>
-<b>Data science<b> is a multidisciplinary field that combines various techniques, tools, and methods to extract valuable insights and knowledge from data. It involves the collection, organization, analysis, interpretation, and presentation of large and complex datasets to uncover patterns, make predictions, and support decision-making processes.
+<b>  Data science <b> is a multidisciplinary field that combines various techniques, tools, and methods to extract valuable insights and knowledge from data. It involves the collection, organization, analysis, interpretation, and presentation of large and complex datasets to uncover patterns, make predictions, and support decision-making processes.
 
 Data scientists leverage a range of skills and knowledge from mathematics, statistics, computer science, and domain expertise to tackle real-world problems and extract meaningful information from data. They work with both structured and unstructured data, which can include numerical data, text, images, videos, and more.
 
