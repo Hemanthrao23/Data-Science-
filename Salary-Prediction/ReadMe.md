@@ -1,4 +1,4 @@
-<b>Salary prediction is an intriguing and valuable application of data science that aims to estimate or forecast the salaries of individuals based on various factors. Predicting salaries is crucial for individuals seeking job opportunities, employers determining fair compensation, and organizations ensuring effective budgeting and resource allocation.
+<b>Salary prediction </b>is an intriguing and valuable application of data science that aims to estimate or forecast the salaries of individuals based on various factors. Predicting salaries is crucial for individuals seeking job opportunities, employers determining fair compensation, and organizations ensuring effective budgeting and resource allocation.
 
 With the advancements in machine learning and the availability of large datasets, it has become possible to develop models that can analyze historical salary data and identify patterns and relationships between salary and other influential attributes. By leveraging these insights, accurate salary predictions can be made for new or unseen individuals, taking into account factors such as education, experience, industry, location, and job title.
 
